@@ -167,7 +167,7 @@ h2 {
 
   /* Media Queries */
 
-  @media (max-width: 1028px) {
+  /* @media (max-width: 1028px) {
 
     #title {
       text-align: center;
@@ -177,4 +177,4 @@ h2 {
       position: static;
       transform: rotate(0);
     }
-  }
+  } */
